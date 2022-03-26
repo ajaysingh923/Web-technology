@@ -1,0 +1,36 @@
+body{
+    background: wheat;
+}
+
+.about{
+    background-color: aqua;
+    background-image:url(2021-12-01.png);
+    color: yellow;
+    height: 300px;
+    width: 300px;
+}
+li{
+    list-style: none;
+    font-size: 50px;
+    
+    
+   
+    
+}
+li a{
+    text-decoration: none;
+    
+    
+}
+.links{
+    height: 200px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.body {
+    display: flex;
+    justify-content: space-between;
+}
