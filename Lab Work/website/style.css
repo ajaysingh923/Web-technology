@@ -236,35 +236,3 @@ section{
 .about .aboutcontent .column{
     width: 50%;
 }
-@media (max-width: 1300px){
-    .home .max-width{
-        margin-left: 0px;
-    }
-}
-@media (max-width: 1104px){
-    
-    .about .aboutcontent .left img{
-        height: 300px;
-        width: 300px;    
-    }
-}
-@media (max-width: 991px){
-    .home .max-width{
-        padding: 0 50px;
-    }
-}
-
-@media (max-width: 690px){
-    .max-width{
-        padding: 0 23px;
-    }
-    .home .homecontent .text2{
-        font-size: 60px;
-       
-    }
-    .home .homecontent .text3{
-        font-size: 32px;
-        
-    }
-    
-}
